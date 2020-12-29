@@ -24,7 +24,7 @@ setup(
         "Intended Audience :: Developers",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
     ],
-    packages=["autoregressor" , "compute"],
+    packages=["autoregressor"],
     include_package_data=True,
     install_requires=["sklearn", "pandas" , "numpy"],
     #entry_points={
