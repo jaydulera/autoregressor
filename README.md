@@ -2,7 +2,7 @@
 
 - Python library to automate the process of building machine learning models
 - Handles missing values and scaling of the dataset before training of models.
-- Trains multiple regression models on the pre-processed data and ensembles the best performing model.
+- Trains multiple regression models on the pre-processed data and ensembles the best performing models.
 - Fits the data in the final model, predicts the output from the testing dataset and returns prediction after inverse scaling to the orignal scale and provides the evaluation of the final model.
 
 
